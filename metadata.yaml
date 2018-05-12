@@ -12,7 +12,7 @@ contributor:
     - La Bedolliere, Emile de
     - Bédollière, Émile de la
     birthdate: 1812
-    deathdate: &id001 1883
+    deathdate: 1883
     gutenberg_agent_id: '32708'
     url: http://www.gutenberg.org/2009/agents/32708
 covers:
@@ -25,11 +25,13 @@ creator:
     - Reid, Thomas Mayne
     - Mayne-Reid, Captain
     birthdate: 1818
-    deathdate: *id001
+    deathdate: 1883
     gutenberg_agent_id: '6260'
     url: http://www.gutenberg.org/2009/agents/6260
     wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33339#Les-enfants-des-bois
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2010-08-03'
 gutenberg_type: Text
