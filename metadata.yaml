@@ -1,0 +1,51 @@
+_repo: Les-enfants-des-bois_33339
+_version: 0.1.0
+alternative_title: The Bush Boys. French
+contributor:
+  translator:
+    agent_name: La Bédollière, Emile de
+    aliases:
+    - Labedolliere, Emile de
+    - Bédollière, Émile Gigault de la
+    - Bédollière, Emile de la
+    - Labédollière, Emile de
+    - La Bedolliere, Emile de
+    - Bédollière, Émile de la
+    birthdate: 1812
+    deathdate: &id001 1883
+    gutenberg_agent_id: '32708'
+    url: http://www.gutenberg.org/2009/agents/32708
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Reid, Thomas Mayne
+    - Mayne-Reid, Captain
+    birthdate: 1818
+    deathdate: *id001
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2010-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33339'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Africa, Southern -- Juvenile fiction'
+- !lcsh 'Big game hunting -- Juvenile fiction'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcc 'PZ'
+title: Les enfants des bois
+url: http://www.gutenberg.org/ebooks/33339
